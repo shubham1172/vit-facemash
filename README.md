@@ -19,4 +19,4 @@ To use the script:
 
 **PS**: Couldn't transform it into <i>facemash</i> because of the following reasons:
 - Vellore has female to male ratio as 1:20
-- Chennai doesn't allow uploading profile photos anymore because of a bug in moodle. So total count is VERY LESS.s
+- Chennai doesn't allow uploading profile photos anymore because of a bug in moodle. So total count is VERY LESS.
